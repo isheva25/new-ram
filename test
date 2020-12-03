@@ -1,6 +1,6 @@
 package com.company;
 
- class newproject {
+ class newproject { //Назови корректно класс
 
     public static void main (String[] args) {
       String novayazadacha = "Новый проект";
