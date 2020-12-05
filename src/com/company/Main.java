@@ -2,7 +2,7 @@ package com.company;
 
 class Yaz {
     public static void main(String[] args) {
-        signal();
+        signal1();
         wash();
         System.out.println(engine());
         System.out.println(start());
@@ -10,7 +10,7 @@ class Yaz {
     }
 
 
-    static void signal () {
+    static void signal1 () {
         String signal = "ту ту ту";
         System.out.println(signal);
     }
